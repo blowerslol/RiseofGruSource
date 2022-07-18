@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gru.png">
+<SubTexture name="gru down0000" x="0" y="0" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru down0001" x="648" y="944" width="324" height="358" frameX="0" frameY="-114" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru down0002" x="1296" y="944" width="324" height="201" frameX="0" frameY="-271" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru idle0000" x="972" y="944" width="324" height="332" frameX="0" frameY="-142" frameWidth="324" frameHeight="474" />
+<SubTexture name="gru idle0001" x="324" y="944" width="324" height="405" frameX="0" frameY="-66" frameWidth="324" frameHeight="471" />
+<SubTexture name="gru idle0002" x="0" y="944" width="324" height="471" frameX="0" frameY="0" frameWidth="324" frameHeight="471" />
+<SubTexture name="gru left0000" x="324" y="0" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru left0001" x="648" y="0" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru left0002" x="0" y="472" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru right0000" x="324" y="472" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru right0001" x="648" y="472" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru right0002" x="972" y="0" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru up0000" x="972" y="472" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru up0001" x="1296" y="0" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+<SubTexture name="gru up0002" x="1296" y="472" width="324" height="472" frameX="0" frameY="0" frameWidth="324" frameHeight="472" />
+</TextureAtlas>

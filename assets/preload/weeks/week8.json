@@ -1,0 +1,32 @@
+{
+	"storyName": "\"Two tickets to see Minions: The Rise of Gru, please?\"",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "gru",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"gru",
+			"gru",
+			[
+				32,
+				37,
+				46
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "2 tickets to rise of gru please"
+}

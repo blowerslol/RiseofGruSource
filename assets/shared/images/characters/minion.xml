@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minion.png">
+<SubTexture name="minion down0000" x="324" y="948" width="303" height="401" frameX="-4" frameY="-73" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion down0001" x="951" y="948" width="303" height="268" frameX="-4" frameY="-206" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion down0002" x="1254" y="948" width="324" height="121" frameX="0" frameY="-353" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion idle0000" x="627" y="948" width="324" height="326" frameX="0" frameY="-148" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion idle0001" x="0" y="948" width="324" height="422" frameX="0" frameY="-52" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion idle0002" x="0" y="0" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion left0000" x="324" y="0" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion left0001" x="648" y="0" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion left0002" x="0" y="474" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion right0000" x="324" y="474" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion right0001" x="648" y="474" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion right0002" x="972" y="0" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion up0000" x="972" y="474" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion up0001" x="1296" y="0" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+<SubTexture name="minion up0002" x="1296" y="474" width="324" height="474" frameX="0" frameY="0" frameWidth="324" frameHeight="474" />
+</TextureAtlas>
